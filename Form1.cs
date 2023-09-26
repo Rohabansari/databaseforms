@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Diagnostics;
-namespace DBTheoryTask
+namespace DBForms
 {
     public partial class Form1 : Form
     {
